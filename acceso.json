@@ -1,1 +1,11 @@
-{ "status": "HOLA" }
+{
+  "status": "PERMISOS",
+  "files": {
+    "Excel_01": "OK",
+    "Excel_02": "OK",
+    "Excel_03": "NO",
+    "Excel_04": "OK",
+    "Excel_05": "NO"
+  }
+}
+
