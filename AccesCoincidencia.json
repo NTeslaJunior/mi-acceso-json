@@ -60,6 +60,11 @@
       "user_id": "USR012",
       "usuario": "MCELESTINO",
       "habilitado": true
+    },
+    {
+      "user_id": "USR013",
+      "usuario": "MPINTOF",
+      "habilitado": true
     }
   ]
 }
