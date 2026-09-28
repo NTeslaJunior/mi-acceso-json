@@ -1,0 +1,71 @@
+{
+  "version": "2.0",
+  "usuarios": [
+    {
+      "user_id": "USR001",
+      "usuario": "esalazar",
+      "password": "A7X9M2K4",
+      "habilitado": true
+    },
+    {
+      "user_id": "USR002",
+      "usuario": "kcarrasco",
+      "password": "P8W3N6R1",
+      "habilitado": true
+    },
+    {
+      "user_id": "USR003",
+      "usuario": "klopez",
+      "password": "L2Q7T5H9",
+      "habilitado": true
+    },
+    {
+      "user_id": "USR004",
+      "usuario": "jgonzales",
+      "password": "C4M8V1K7",
+      "habilitado": true
+    },
+    {
+      "user_id": "USR005",
+      "usuario": "jberrocalb",
+      "password": "D5R2N8P1",
+      "habilitado": false
+    },
+    {
+      "user_id": "USR006",
+      "usuario": "E13403",
+      "password": "X8K4P2M6",
+      "habilitado": false
+    },
+    {
+      "user_id": "USR007",
+      "usuario": "E13153",
+      "password": "N9C3W7L2",
+      "habilitado": false
+    },
+    {
+      "user_id": "USR008",
+      "usuario": "wasto",
+      "password": "T2H8Q4R6",
+      "habilitado": false
+    },
+    {
+      "user_id": "USR009",
+      "usuario": "E12586",
+      "password": "B7M1X5K9",
+      "habilitado": false
+    },
+    {
+      "user_id": "USR010",
+      "usuario": "jyatacoy",
+      "password": "Q4L8N2R7",
+      "habilitado": false
+    },
+    {
+      "user_id": "USR011",
+      "usuario": "jpajares",
+      "password": "M3K9T6V1",
+      "habilitado": false
+    }
+  ]
+}
