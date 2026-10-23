@@ -1,5 +1,5 @@
 {
-  "version": "2.1",
+  "version": "2.0",
   "limite_documentos": 100,
   "usuarios_sin_limite": ["mcelestino"],
   "usuarios_sin_terminos": ["mcelestino"]
