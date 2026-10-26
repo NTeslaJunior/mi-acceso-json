@@ -1,3 +1,5 @@
 {
-  "version": "1.0"
+  "version": "1.0",
+  "usuarios_sin_terminos": ["mcelestino"],
+  "usuarios_sin_version": ["mcelestino"]
 }
